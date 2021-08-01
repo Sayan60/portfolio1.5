@@ -1,0 +1,18 @@
+h1{
+    color:blue;
+   
+}
+.header{
+    display:flex;
+    background-color:grey;
+    justify-content:space-between
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    border:1px black solid;
+}
+.item{
+    border:1px orange solid;
+}
